@@ -5,8 +5,6 @@
 
 using namespace std;
 
-//Первый вариант
-
 float vectorLength(float x, float y) { // Функция, считающая длину вектора
     return std::sqrt(x * x + y * y);
 };
