@@ -76,5 +76,5 @@ int main(int argc, char** argv) {
     else { // Если файл не открылся, то выводим ошибку
         cout << "Unknown file" << endl;
     }
-    return 0; // Типа заканчиваем прогу
+    return 0; // заканчиваем работу программы
 }
